@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firsname": "json",
+      "lastname": "server",
+      "nickname": "server",
+      "password": "typicode",
+      "password2": "typicode",
+      "cards": [],
+      "transactions": []
+    }
+  ]
+}
